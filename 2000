@@ -1,0 +1,11 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+int N;
+std::cin >> N;
+int amt ;
+amt = N*2000 ;
+int Z ;
+std::cout << amt/500 << std::endl;
+}
