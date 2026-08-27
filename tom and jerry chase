@@ -1,0 +1,21 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+int x ; //jerry speed
+int y ; //tom speed 
+int t ; // test cases 
+std::cin >> t;
+while(t--){
+    cin>>x;
+    cin>>y;
+    if(x>=y){
+        cout<<"no"<<endl;
+        
+    }
+    else{
+        cout<<"yes"<<endl;
+    }
+}
+
+}
